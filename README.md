@@ -23,3 +23,9 @@
 2. Set your Camera to about 45 degree angle
 
 3. Angle your camers directly South
+
+---
+
+Also note you must use OSRS on the fixed graphics settings with the game in the upper-left corner of you main monitor
+
+Built and used for the Ikov OSRS Private server
